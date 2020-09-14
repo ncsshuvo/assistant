@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f7f7f7;
+  color: #666;
+}
+.container {
+  max-width: 80%;
+  margin: auto;
+}
+.input {
+  text-align: center;
+}
+#message {
+  width: 500px;
+  max-width: 100%;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  background: #fff;
+  border: 1px solid #999;
+}
+#interact {
+  width: 500px;
+  max-width: 100%;
+  background: #6600ff;
+  border: none;
+  padding: 10px;
+  color: #fff;
+  margin-bottom: 30px;
+  cursor: pointer;
+}
